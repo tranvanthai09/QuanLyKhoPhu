@@ -1,0 +1,6 @@
+{
+  "name": "KhoVận — Quản lý Xuất Nhập Kho",
+  "description": "Hệ thống quản lý xuất nhập kho và theo dõi tồn kho theo thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

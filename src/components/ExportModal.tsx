@@ -247,7 +247,7 @@
 //               list="employee-suggestions"
 //               value={employeeName}
 //               onChange={(e) => setEmployeeName(e.target.value)}
-//               placeholder="Ví dụ: Nguyễn Văn Minh"
+//               placeholder="Lâm"
 //               className="w-full h-10 rounded-lg border border-slate-300 px-3 text-sm text-slate-900 placeholder:text-slate-400 focus:border-blue-600 focus:outline-none focus:ring-1 focus:ring-blue-600"
 //             />
 //             <datalist id="employee-suggestions">

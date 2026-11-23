@@ -376,11 +376,13 @@ interface ExportModalProps {
 }
 
 const SUGGESTED_EMPLOYEES = [
-  'Nguyễn Hoàng Nam',
-  'Trần Thị Thu Hà',
-  'Lê Minh Tuấn',
-  'Phạm Quốc Bảo',
-  'Vũ Ngọc Anh',
+  'Lâm',
+  'Phong',
+  'Thái',
+  'Tưởng',
+  'Tài',
+  "Phát",
+  "Phi"
 ];
 
 function normalizeText(value: string): string {
